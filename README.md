@@ -1,5 +1,8 @@
 # data-science2026
 
+Aluno: Bruno Gustavo Rocha
+RA: 10400926
+
 [Link para o GitHub](https://github.com/bru5no5/data-science2026)
 
 ## Exploracao inicial dos dados
