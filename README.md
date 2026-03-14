@@ -1,5 +1,7 @@
 # data-science2026
 
+[Link para o GitHub](https://github.com/bru5no5/data-science2026)
+
 ## Exploracao inicial dos dados
 
 O notebook `notebook/exploracao_inicial.ipynb` apresenta uma primeira analise exploratoria dos tres datasets do projeto:
